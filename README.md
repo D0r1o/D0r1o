@@ -81,7 +81,7 @@ int main() {
 
 `Samba` · `Rock` · `Baião` · `MPB` · `Clássica`
 
-> *Não é Lúpus. Nunca é Lúpus.*
+> *Caminho se conhece andando,então vez em quando é bom se perder*
 
 ---
 
