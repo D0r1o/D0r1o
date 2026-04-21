@@ -41,9 +41,9 @@ Rock nacional no fone, House na tela de fundo, e uma calculadora com proteção 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=graywhite&hide_border=true&title_color=111&text_color=555&icon_color=111)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D0r1o&show_icons=true&theme=graywhite&hide_border=true&title_color=111&text_color=555&icon_color=111)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=graywhite&hide_border=true&title_color=111&text_color=555)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0r1o&layout=compact&theme=graywhite&hide_border=true&title_color=111&text_color=555)
 
 </div>
 
@@ -75,42 +75,8 @@ while (true) {
 
 ### 📫 contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-SEU_USERNAME-181717?style=flat-square&logo=github)](https://github.com/SEU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-D0r1o-181717?style=flat-square&logo=github)](https://github.com/D0r1o)
 
----
 
-<div align="center">
-<sub>construindo, quebrando e reconstruindo — um segfault por vez.</sub>
-</div>
-#☕ Fala, pessoal! Eu sou o Renan.
-
-Bem-vindos ao meu cantinho no GitHub, onde a lógica encontra o caos (e, às vezes, o código até compila de primeira!).
-🤔 Quem é esse tal de Renan?
-
-Sou um brasileiro de 26 anos que decidiu que aprender C era uma ótima ideia para passar o tempo. Spoiler: meu compilador e eu temos uma relação de amor e ódio, mas estamos chegando lá.
-
-    🇧🇷 Made in Brazil: Se o código não funcionar, a gente faz uma gambiarra... quer dizer, um ajuste técnico criativo.
-
-    💻 C-viciado: Atualmente tentando convencer o computador de que 0/0 não deveria explodir o universo (já fiz até calculadora com proteção pra isso, viu?).
-
-    🇬🇧 English Student: My English is... working in progress. Se eu escrever algo errado, finge que é um dialeto novo de programação.
-
-🛠️ Meu "Arsenal" (ou quase isso)
-
-    C: Onde eu gasto 90% do meu tempo procurando onde esqueci de fechar uma chave {.
-
-    Git/GitHub: Onde eu guardo meus códigos para ter certeza de que não vou perdê-los quando o PC travar.
-
-    Lógica de Programação: Minha tentativa diária de ser mais inteligente que uma pedra (o processador).
-
-🎸 Fora da Matrix (Vida Real)
-
-Quando não estou brigando com o gcc, você provavelmente vai me encontrar:
-
-    🎧 No fone: Curtindo um Charlie Brown Jr., Skank ou Legião Urbana (o rock nacional é meu combustível). Às vezes um Kamaitachi para variar o clima.
-
-    🩺 No hospital virtual: Assistindo House. Eu não sou médico, mas depois de tantas temporadas, já consigo dar o diagnóstico: "Não é Lúpus. Nunca é Lúpus".
-
-    🎨 Sendo cult: Olhando uns quadros ou vendo um filme e fingindo que entendi todas as metáforas.
 
 
