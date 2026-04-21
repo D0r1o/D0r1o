@@ -28,3 +28,23 @@ Quando não estou brigando com o gcc, você provavelmente vai me encontrar:
     🩺 No hospital virtual: Assistindo House. Eu não sou médico, mas depois de tantas temporadas, já consigo dar o diagnóstico: "Não é Lúpus. Nunca é Lúpus".
 
     🎨 Sendo cult: Olhando uns quadros ou vendo um filme e fingindo que entendi todas as metáforas.
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
