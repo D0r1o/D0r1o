@@ -9,7 +9,7 @@
  ╚═════╝   ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═════╝ 
 ```
 
-> *"Feito é melhor que perfeito — mas perfeito é melhor que bugado."*
+*"Viva com coragem e morra sem arrependimentos."*
 
 </div>
 
@@ -17,13 +17,23 @@
 
 ### quem sou eu
 
-Brasileiro, 26 anos, programador por escolha própria e vítima do `gcc` por consequência.
+Brasileiro, 26 anos, estudante de tecnologia em início de jornada — e já convencido de que escolhi a área certa.
 
-Decidi aprender C porque aparentemente adoro sofrimento. Spoiler: meu compilador e eu temos uma relação complicada — ele me julga, eu ignoro, no final funciona (ou quase). Quando algo quebra, não entro em pânico: analiso, respiro, e queimo tudo de novo com mais confiança.
+Comecei pelo C, que é basicamente aprender a dirigir num carro sem direção assistida: inconveniente, trabalhoso, mas você sai sabendo o que está fazendo. Meu compilador e eu temos uma relação de respeito mútuo — ele aponta os erros, eu corrijo. Funciona.
 
-Aprendo olhando, processo sozinho, e só peço ajuda quando já tentei de 3 formas diferentes. O manual existe? Existe. Vou ler? Depende.
+Tenho uma forma de pensar analítica e orientada a padrões, o que faz mais sentido agora que sei que existe uma profissão construída em cima disso. Aprendo por observação, processo de forma independente e prefiro entender o problema a fundo antes de sair tentando soluções. Quando algo quebra, não é catástrofe — é dado novo.
 
-Rock nacional no fone, House na tela de fundo, e uma calculadora com proteção contra divisão por zero no histórico do Git — esse sou eu.
+Fora da tela: House no segundo monitor, trilha sonora variando entre Samba, Rock, Baião, MPB e Clássica, e uma opinião formada sobre praticamente tudo. Dificilmente muda, mas sempre tem argumento.
+
+---
+
+### o que me interessa
+
+Ainda estou construindo a base, mas o olhar já está no horizonte:
+
+- **Inteligência Artificial** — a área que mais me atrai. A interseção entre lógica formal e comportamento emergente é, no mínimo, fascinante.
+- **Segurança da Informação** — entender como sistemas falham é tão importante quanto entender como funcionam.
+- **Dados** — no fundo, tudo é padrão. E reconhecer padrão é algo que já faço naturalmente.
 
 ---
 
@@ -52,14 +62,16 @@ Rock nacional no fone, House na tela de fundo, e uma calculadora com proteção 
 ### 🎯 modo de operação
 
 ```c
-while (true) {
-    tenta();
-    if (quebrou()) {
-        analisa();        // resposta 10A
-        segue();          // resposta 10B
-    } else {
-        proximo_desafio(); // resposta 13B
+int main() {
+    while (vivo()) {
+        if (problema()) {
+            analisa();
+            resolve();          /* opinião alheia: bem-vinda, porém opcional */
+        }
+        segue_em_frente();      /* sem arrependimento */
     }
+    /* aviso: já sobrevivi a loop infinito. estou preparado. */
+    return 0;
 }
 ```
 
@@ -69,7 +81,7 @@ while (true) {
 
 `Samba` · `Rock` · `Baião` · `MPB` · `Clássica`
 
-> *Se perdendo é que se descobre um novo caminho*
+> *Não é Lúpus. Nunca é Lúpus.*
 
 ---
 
@@ -77,6 +89,8 @@ while (true) {
 
 [![GitHub](https://img.shields.io/badge/GitHub-D0r1o-181717?style=flat-square&logo=github)](https://github.com/D0r1o)
 
+---
 
-
-
+<div align="center">
+<sub>em construção — como tudo que vale a pena.</sub>
+</div>
