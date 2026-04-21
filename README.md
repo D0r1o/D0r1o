@@ -69,7 +69,7 @@ while (true) {
 
 `Samba` · `Rock` · `Baião` · `MPB` · `Clássica`
 
-> *Não é Lúpus. Nunca é Lúpus.*
+> *Se perdendo é que se descobre um novo caminho*
 
 ---
 
